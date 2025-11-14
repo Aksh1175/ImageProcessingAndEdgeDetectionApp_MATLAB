@@ -1,7 +1,10 @@
 **Image Processing And Edge Detection App (MATLAB App Designer)**
+
 **Objective :-**
 This project is a MATLAB App Designer–based Image Processing and Edge Detection Application that allows users to load, filter, and analyze images using various edge detection techniques. The app provides an intuitive GUI for applying filters, adjusting parameters, and visualizing results in real time ,making it useful for beginners, students, and researchers working in image processing and computer vision.
+
 **Key Features :-**
+
 **1.	Image Loading & Display**
 •	Load images in common formats (PNG, JPG, JPEG, BMP).
 •	Side-by-side visualization of original and processed images.
